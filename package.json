@@ -1,0 +1,17 @@
+{
+  "name": "aoi.gamecord",
+  "version": "1.0.0",
+  "description": "This is created by, Aoi.gamecord, for discord games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord-gamecord",
+    "discord-games",
+    "minigames",
+    "aoi.js"
+  ],
+  "author": "simvolxd",
+  "license": "ISC"
+}
